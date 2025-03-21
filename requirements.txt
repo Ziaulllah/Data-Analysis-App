@@ -1,0 +1,9 @@
+streamlit
+pandas
+nltk
+re
+sqlite3
+seaborn
+matplotlib
+scikit-learn
+os
